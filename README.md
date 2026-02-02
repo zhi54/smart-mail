@@ -35,8 +35,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/stfmail.git
-cd stfmail
+git clone https://github.com/zhi54/smart-mail.git
+cd mart-mail
 
 # 安装依赖
 pip install -r requirements.txt
